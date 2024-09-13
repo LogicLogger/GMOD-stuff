@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/wrenchmask/conesf"
+
+
+
+	"$surfaceprop" "Metal"
+	"$nocull" 1
+                    
+                    "$phong" "1"
+                    "$phongboost" "10"
+                    "$phongexponent" "20"
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          16
+
+
+                    "$ambientocclusion" "1"
+}

@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/wrenchmask/SkinMatf"
+                    "$lightwarptexture "models/wrenchmask/lightwarpf"
+	
+                    "$surfaceprop" "Metal"
+	"$nocull" 1
+                     
+                    "$phong" "1"
+                    "$phongboost" "10"
+                    "$phongexponent" "30"
+ 
+                    "$ambientocclusion" "1"
+
+}

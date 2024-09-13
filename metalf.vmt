@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/wrenchmask/metalf"
+                    "$lightwarptexture" "models/wrenchmask/lightwarpf"
+                     "$surfaceprop" "SlipperyMetal"
+
+                     "$phong" "1"
+                     "$phongboost" "5"
+                     "$phongexponent" "30"
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          6
+                    
+	"$nocull" 1
+                    "$ambientocclusion" "1"
+}

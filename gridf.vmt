@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/wrenchmask/gridf"
+	$alphatest 1
+	$alphatestreference .20
+	"$nocull" 0
+	$basetexturetransform "center .5 .5 scale 2 2 rotate 0 translate 0 0"
+}
