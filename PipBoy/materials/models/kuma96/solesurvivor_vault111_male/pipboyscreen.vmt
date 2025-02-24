@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/kuma96/solesurvivor_vault111_male/textures/pipboyscreen_d"
+	$bumpmap "models/kuma96/solesurvivor_vault111_male/textures/pipboyscreen_n"
+	
+	$selfillum 1
+	
+	$phong 1
+	$phongexponenttexture "models/kuma96/solesurvivor_vault111_male/textures/pipboyscreen_e"
+	$phongalbedotint 1
+	$phongboost 100
+	$phongfresnelranges "[.2 .8 1]"
+}
